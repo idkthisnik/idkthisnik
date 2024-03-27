@@ -8,17 +8,6 @@
 [![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,postgres,sqlite,mysql,redis,docker,git,linux,postman,vscode,react,css,html)](https://skillicons.dev)
 
 -----
-:chart_with_upwards_trend: **My stats:**<br><br>
-<div> 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=idkthisnik&&hide=contribs,prs&rank_icon=github&show_icons=true&theme=dark#gh-dark-mode-only)&description_lines_count=2"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idkthisnik&layout=compact&theme=dark#gh-dark-mode-only&description_lines_count=2"/>
-  </a>
-</div>
-
------
 :handshake:	**Connect with me:**<br><br>
 <div> 
   <a href="https://www.linkedin.com/in/mykyta-batluk-0a26682b2/">
